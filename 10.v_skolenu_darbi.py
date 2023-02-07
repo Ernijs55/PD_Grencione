@@ -5,7 +5,7 @@
 #2 Bāra Antuanete
 
 #3 Boja Ernests
-
+print(cos(radians(60)+fmod(15,2)))
 #4 Donovs Emīls Niks
 
 #5 Feldmane Laura
